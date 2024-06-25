@@ -1,0 +1,34 @@
+body{
+
+}
+
+.header{
+
+}
+
+.hero{
+
+}
+
+.info{
+
+}
+
+.quote{
+
+}
+
+.call{
+
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 18px;
+  background-color: #1F2937;
+}
+.footer p{
+  color: white;
+}
